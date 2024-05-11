@@ -1,0 +1,286 @@
+{
+    "title": "Catálogo de Lançamentos 2024",
+    "email": {
+        "Mailer": "smtp",
+        "SMTPAuth": true,
+        "SMTPSecure": "ssl",
+        "Port": 465,
+        "Host": "host.com.br",
+        "Username": "user@host.com.br",
+        "Password": "Password",
+        "FromName": "FromName",
+        "FromEmail": "user@host.com.br"
+    },
+    "menuGroupOrder": {
+        "0": "Seara",
+        "1": "Seara Gourmet",
+        "2": "Delícia",
+        "3": "Primor",
+        "4": "Cukin",
+        "5": "Incrível",
+        "6": "Marba",
+        "7": "Hans",
+        "8": "Massa Leve"
+    },
+    "allPagesPdfUrl": "files/00_Catalogo_de_Produtos_Seara_APAS_2024.zip",
+    "pages": {
+        "01": {
+            "path": "pages/01_capa.php",
+            "menu": false,
+            "menuGroup": false,
+            "menuIdx": 0,
+            "product": "",
+            "export": false
+        },
+        "02": {
+            "path": "pages/02_intro.php",
+            "menu": false,
+            "menuGroup": false,
+            "menuIdx": 1,
+            "product": "",
+            "export": false
+        },
+        "03": {
+            "path": "pages/03_seara_panelinhas.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 2,
+            "product": "Seara Panelinhas",
+            "export": {
+                "thumb": "images/products/03_thumb.jpg",
+                "file": "files/03_seara_panelinhas.zip"
+            }
+        },
+        "04": {
+            "path": "pages/04_frangos_crocantes.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 3,
+            "product": "Frangos Crocantes Seara 900g",
+            "export": {
+                "thumb": "images/products/04_thumb.jpg",
+                "file": "files/04_frangos_crocantes.zip"
+            }
+        },
+        "05": {
+            "path": "pages/05_chicken_supreme.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 4,
+            "product": "Chicken Supreme 900g",
+            "export": {
+                "thumb": "images/products/05_thumb.jpg",
+                "file": "files/05_chicken_supreme.zip"
+            }
+        },
+        "06": {
+            "path": "pages/06_chicken_supreme_molhos.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 5,
+            "product": "Chicken Supreme com Molhos",
+            "export": {
+                "thumb": "images/products/06_thumb.jpg",
+                "file": "files/06_chicken_supreme_com_molhos.zip"
+            }
+        },
+        "07": {
+            "path": "pages/07_milanesa_individual.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 6,
+            "product": "Milanesa Individual",
+            "export": {
+                "thumb": "images/products/07_thumb.jpg",
+                "file": "files/07_Milanesa_Individual.zip"
+            }
+        },
+        "08": {
+            "path": "pages/08_recheado_chedar_e_bacon.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 7,
+            "product": "Recheado Chedar e Bacon",
+            "export": {
+                "thumb": "images/products/08_thumb.jpg",
+                "file": "files/08_recheado_chedar_e_bacon.zip"
+            }
+        },
+        "09": {
+            "path": "pages/09_salsicha_defumada_seara.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 8,
+            "product": "Salsicha Defumada Seara",
+            "export": {
+                "thumb": "images/products/09_thumb.jpg",
+                "file": "files/09_salsicha_defumada_seara.zip"
+            }
+        },
+        "10": {
+            "path": "pages/10_linha_padaria.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 9,
+            "product": "Linha Padaria",
+            "export": {
+                "thumb": "images/products/10_thumb.jpg",
+                "file": "files/10_linha_padaria.zip"
+            }
+        },
+        "11": {
+            "path": "pages/11_bolinho_de_bacalhau.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 10,
+            "product": "Bolinho de Bacalhau",
+            "export": {
+                "thumb": "images/products/11_thumb.jpg",
+                "file": "files/11_bolinho_de_bacalhau.zip"
+            }
+        },
+        "12": {
+            "path": "pages/12_linha_de_suinos.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 11,
+            "product": "Linha de Suínos",
+            "export": {
+                "thumb": "images/products/12_thumb.jpg",
+                "file": "files/12_linha_de_suinos.zip"
+            }
+        },
+        "13": {
+            "path": "pages/13_cortes_suinos_temperados.php",
+            "menu": true,
+            "menuGroup": 0,
+            "menuIdx": 12,
+            "product": "Cortes Suínos Temperados",
+            "export": {
+                "thumb": "images/products/13_thumb.jpg",
+                "file": "files/13_cortes_suinos_temperados.zip"
+            }
+        },
+        "14": {
+            "path": "pages/14_salames_seara_gourmet.php",
+            "menu": true,
+            "menuGroup": 1,
+            "menuIdx": 13,
+            "product": "Salames Seara Gourmet",
+            "export": {
+                "thumb": "images/products/14_thumb.jpg",
+                "file": "files/14_salames_seara_gourmet.zip"
+            }
+        },
+        "15": {
+            "path": "pages/15_delicia_supreme.php",
+            "menu": true,
+            "menuGroup": 2,
+            "menuIdx": 14,
+            "product": "Delícia Supreme",
+            "export": {
+                "thumb": "images/products/15_thumb.jpg",
+                "file": "files/15_delicia_supreme.zip"
+            }
+        },
+        "16": {
+            "path": "pages/16_delicia_toque_de_chef.php",
+            "menu": true,
+            "menuGroup": 2,
+            "menuIdx": 15,
+            "product": "Delícia Toque de Chef",
+            "export": {
+                "thumb": "images/products/16_thumb.jpg",
+                "file": "files/16_delicia_toque_de_chef.zip"
+            }
+        },
+        "17": {
+            "path": "pages/17_primor.php",
+            "menu": true,
+            "menuGroup": 3,
+            "menuIdx": 16,
+            "product": "Primor",
+            "export": {
+                "thumb": "images/products/17_thumb.jpg",
+                "file": "files/17_primor.zip"
+            }
+        },
+        "18": {
+            "path": "pages/18_cukin.php",
+            "menu": true,
+            "menuGroup": 4,
+            "menuIdx": 17,
+            "product": "Cukin",
+            "export": {
+                "thumb": "images/products/18_thumb.jpg",
+                "file": "files/18_cukin.zip"
+            }
+        },
+        "19": {
+            "path": "pages/19_embalagens_unitarias.php",
+            "menu": true,
+            "menuGroup": 5,
+            "menuIdx": 18,
+            "product": "Embalagens Unitárias",
+            "export": {
+                "thumb": "images/products/19_thumb.jpg",
+                "file": "files/19_embalagens_unitarias.zip"
+            }
+        },
+        "20": {
+            "path": "pages/20_kids.php",
+            "menu": true,
+            "menuGroup": 5,
+            "menuIdx": 19,
+            "product": "Kids",
+            "export": {
+                "thumb": "images/products/20_thumb.jpg",
+                "file": "files/20_kids.zip"
+            }
+        },
+        "21": {
+            "path": "pages/21_superiore.php",
+            "menu": true,
+            "menuGroup": 6,
+            "menuIdx": 20,
+            "product": "Sabores Campeões",
+            "export": {
+                "thumb": "images/products/21_thumb.jpg",
+                "file": "files/21_superiore.zip"
+            }
+        },
+        "22": {
+            "path": "pages/22_pastrami.php",
+            "menu": true,
+            "menuGroup": 7,
+            "menuIdx": 21,
+            "product": "Pastrami",
+            "export": {
+                "thumb": "images/products/22_thumb.jpg",
+                "file": "files/22_pastrami.zip"
+            }
+        },
+        "23": {
+            "path": "pages/23_linguicas_alemas.php",
+            "menu": true,
+            "menuGroup": 7,
+            "menuIdx": 22,
+            "product": "Linguiças Alemãs",
+            "export": {
+                "thumb": "images/products/23_thumb.jpg",
+                "file": "files/23_linguicas_alemas.zip"
+            }
+        },
+        "24": {
+            "path": "pages/24_pao_de_queijo.php",
+            "menu": true,
+            "menuGroup": 8,
+            "menuIdx": 23,
+            "product": "Pão de Queijo",
+            "export": {
+                "thumb": "images/products/24_thumb.jpg",
+                "file": "files/24_pao_de_queijo.zip"
+            }
+        }
+    }
+}

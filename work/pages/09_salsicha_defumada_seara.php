@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/09_salsicha_defumada_seara_1920_1200.jpg" />

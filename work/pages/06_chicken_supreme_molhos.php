@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/06_chicken_supreme_com_molhos_1920_1280.jpg" />

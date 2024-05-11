@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/01_capa_1920_1280.jpg" />

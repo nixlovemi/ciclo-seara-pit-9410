@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/08_recheado_chedar_e_bacon_1920_1200.jpg" />

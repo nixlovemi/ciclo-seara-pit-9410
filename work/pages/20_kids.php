@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/20_kids_1920_1200.jpg" />

@@ -1,0 +1,1 @@
+<img class="img-fluid img-full" src="images/14_salames_seara_gourmet_1920_1200.jpg" />
